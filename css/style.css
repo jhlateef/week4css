@@ -1,0 +1,25 @@
+p {
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+#para1 {
+    text-align: right;
+    color: blue;
+  }
+
+.center {
+    text-align: center;
+    color: blueviolet;
+  }
+
+ * {
+    text-align: left;
+    color: green;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  p.center {
+    text-align: center;
+    color: orange;
+  }
